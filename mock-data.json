@@ -2,6 +2,39 @@
   {
     "id": 1,
     "customer_id": 1,
+    "usage_date": "2025-06-01",
+    "messages_sent": 120,
+    "messages_received": 40,
+    "total_messages": 160,
+    "gupshup_fees": 40,
+    "meta_fees": 10,
+    "total_cost": 50
+  },
+  {
+    "id": 2,
+    "customer_id": 1,
+    "usage_date": "2025-06-03",
+    "messages_sent": 200,
+    "messages_received": 70,
+    "total_messages": 270,
+    "gupshup_fees": 75,
+    "meta_fees": 25,
+    "total_cost": 100
+  },
+  {
+    "id": 3,
+    "customer_id": 2,
+    "usage_date": "2025-06-07",
+    "messages_sent": 310,
+    "messages_received": 50,
+    "total_messages": 360,
+    "gupshup_fees": 100,
+    "meta_fees": 30,
+    "total_cost": 130
+  },
+  {
+    "id": 4,
+    "customer_id": 1,
     "usage_date": "2025-06-10",
     "messages_sent": 300,
     "messages_received": 50,
@@ -11,7 +44,7 @@
     "total_cost": 120
   },
   {
-    "id": 2,
+    "id": 5,
     "customer_id": 2,
     "usage_date": "2025-06-11",
     "messages_sent": 450,
@@ -20,5 +53,93 @@
     "gupshup_fees": 135,
     "meta_fees": 45,
     "total_cost": 180
+  },
+  {
+    "id": 6,
+    "customer_id": 2,
+    "usage_date": "2025-05-25",
+    "messages_sent": 150,
+    "messages_received": 30,
+    "total_messages": 180,
+    "gupshup_fees": 45,
+    "meta_fees": 15,
+    "total_cost": 60
+  },
+  {
+    "id": 7,
+    "customer_id": 3,
+    "usage_date": "2025-05-05",
+    "messages_sent": 600,
+    "messages_received": 100,
+    "total_messages": 700,
+    "gupshup_fees": 200,
+    "meta_fees": 70,
+    "total_cost": 270
+  },
+  {
+    "id": 8,
+    "customer_id": 1,
+    "usage_date": "2025-04-15",
+    "messages_sent": 350,
+    "messages_received": 55,
+    "total_messages": 405,
+    "gupshup_fees": 110,
+    "meta_fees": 35,
+    "total_cost": 145
+  },
+  {
+    "id": 9,
+    "customer_id": 1,
+    "usage_date": "2024-12-22",
+    "messages_sent": 220,
+    "messages_received": 40,
+    "total_messages": 260,
+    "gupshup_fees": 65,
+    "meta_fees": 20,
+    "total_cost": 85
+  },
+  {
+    "id": 10,
+    "customer_id": 2,
+    "usage_date": "2024-11-10",
+    "messages_sent": 500,
+    "messages_received": 80,
+    "total_messages": 580,
+    "gupshup_fees": 150,
+    "meta_fees": 55,
+    "total_cost": 205
+  },
+  {
+    "id": 11,
+    "customer_id": 3,
+    "usage_date": "2024-08-18",
+    "messages_sent": 180,
+    "messages_received": 25,
+    "total_messages": 205,
+    "gupshup_fees": 55,
+    "meta_fees": 18,
+    "total_cost": 73
+  },
+  {
+    "id": 12,
+    "customer_id": 1,
+    "usage_date": "2024-07-03",
+    "messages_sent": 280,
+    "messages_received": 60,
+    "total_messages": 340,
+    "gupshup_fees": 95,
+    "meta_fees": 32,
+    "total_cost": 127
+  },
+  {
+    "id": 13,
+    "customer_id": 1,
+    "usage_date": "2023-12-25",
+    "messages_sent": 400,
+    "messages_received": 100,
+    "total_messages": 500,
+    "gupshup_fees": 125,
+    "meta_fees": 45,
+    "total_cost": 170
   }
 ]
